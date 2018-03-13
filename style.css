@@ -3,10 +3,21 @@ body {
 }
 
 .name {
+  margin-top: 20px;
   color: #4682b4;
 }
 
 .url {
   color: #a9a9a9;
-  margin-bottom: 10px;
+  font-size: 14px;
 }
+
+.star {
+  color: #989090;
+  font-size: 16px;
+}
+
+a:link { color: #989090; }
+a:visited { color: #989090; }
+a:hover { color: #989090; }
+a:active { color: #989090; }
