@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "parcel-bundler": "^1.6.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }
