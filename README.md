@@ -13,4 +13,4 @@ $ npm run start
 
 ## Screenshot
 
-![Demo](./art/demo.png "Demo" | width=100)
+<img src="./art/demo.png" width="300">
