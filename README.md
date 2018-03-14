@@ -13,4 +13,4 @@ $ npm run start
 
 ## Screenshot
 
-![Demo](./art/demo.png "Demo")
+![Demo](./art/demo.png "Demo" | width=100)
